@@ -1,0 +1,12 @@
+{
+  "name": "prod-dataman-api",
+  "description": "",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "mysql-simple": "1.0.3",
+    "express": "3.4.6"
+  },
+  "engines": { "node": "*" }
+}
+
